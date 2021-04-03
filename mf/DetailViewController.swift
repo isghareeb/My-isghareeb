@@ -4,8 +4,6 @@
 //
 //  Created by Charles Konkol on 9/8/19.
 //  Copyright © 2019 Charles Konkol. All rights reserved.
-//
-
 import UIKit
 //1 Add import
 import WebKit
